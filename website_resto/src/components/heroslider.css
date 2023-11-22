@@ -1,0 +1,11 @@
+.btn-orange {
+    background-color: #f76e11; /* Couleur orange pour le fond du bouton */
+    color: #fff; /* Couleur du texte (blanc dans cet exemple) */
+    border: none; /* Supprimer les bordures du bouton si nécessaire */
+    padding: 10px 20px; /* Ajustez le rembourrage selon vos besoins */
+    border-radius: 5px; /* Si vous souhaitez arrondir les coins du bouton */
+    /* Autres styles de bouton (marges, polices, etc.) selon vos besoins */
+  }
+.btn:hover {
+    color: #f19354;
+}
